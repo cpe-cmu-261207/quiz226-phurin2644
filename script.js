@@ -42,13 +42,3 @@ search.onclick = () => {
 // more codes for Search and Reset buttons here
 
 
-
-// for (let i = 0; i < myArr.length; i++) {
-//   if (myArr[i].length >= length) {
-//     stringOut += "<mark>" + myArr[i] + "</mark>"
-//   }
-//   else {
-//     stringOut += myArr[i] + " ";
-//   }
-// }
-// document.getElementById("text").innerHTML = stringOut;
