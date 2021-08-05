@@ -27,7 +27,7 @@ search.onclick = () => {
   // console.log(myArr)
   for (let i = 0; i < myArr.length; i++) {
     if (myArr[i].length >= length.value) {
-      stringOut += "<mark>" + myArr[i] + "</mark>"
+      stringOut += "<mark>" + myArr[i] + "</mark> "
       // console.log(myArr[i])
     }
     else {
